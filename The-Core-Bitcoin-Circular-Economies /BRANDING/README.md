@@ -9,7 +9,7 @@ We have open-sourced all the Bitcoin resources our founder uses to onboard merch
 - If you're familiar with Adobe Illustrator, feel free to download the Ai files to modify the language, resize, or make other adjustments as needed.
 
 ### 🖌️ Customization
-- The "Bitcoin Accepted Here" second sticker includes a thin square outline where you can include the merchant’s paycode QR code for Lightning payments.
+- The "Bitcoin Accepted Here" sticker includes a thin square outline where you can include the merchant’s paycode QR code for Lightning payments.
 
 ## 📏 Measurements for Merchant Materials
 
