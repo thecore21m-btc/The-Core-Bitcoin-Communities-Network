@@ -13,7 +13,7 @@ These stickers are designed for merchants who accept Bitcoin payments. Each stic
 - Stickers are intended for placement on store windows, doors, or counters.  
 
 
-<br />
+
 # Bitcoin Merchant Laminated Paper (with QR Code)
 
 ## Overview
